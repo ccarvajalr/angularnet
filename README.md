@@ -1,2 +1,2 @@
 # angularnet
-angualar con dot net mvc
+angular con dot net mvc
