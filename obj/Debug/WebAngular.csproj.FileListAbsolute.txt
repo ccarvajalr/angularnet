@@ -15,7 +15,10 @@ C:\Dev\azure\AngularDotNet\WebAngular\bin\Microsoft.ApplicationInsights.dll
 C:\Dev\azure\AngularDotNet\WebAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Dev\azure\AngularDotNet\WebAngular\bin\Microsoft.Web.Infrastructure.dll
 C:\Dev\azure\AngularDotNet\WebAngular\bin\Newtonsoft.Json.dll
+C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Net.Http.Formatting.dll
 C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Web.Helpers.dll
+C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Web.Http.dll
+C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Web.Http.WebHost.dll
 C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Web.Mvc.dll
 C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Web.Optimization.dll
 C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Web.Razor.dll
@@ -26,6 +29,9 @@ C:\Dev\azure\AngularDotNet\WebAngular\bin\WebGrease.dll
 C:\Dev\azure\AngularDotNet\WebAngular\bin\EntityFramework.xml
 C:\Dev\azure\AngularDotNet\WebAngular\bin\EntityFramework.SqlServer.xml
 C:\Dev\azure\AngularDotNet\WebAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Net.Http.Formatting.xml
+C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Web.Http.xml
+C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Web.Http.WebHost.xml
 C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Web.Helpers.xml
 C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Web.Mvc.xml
 C:\Dev\azure\AngularDotNet\WebAngular\bin\System.Web.Optimization.xml
@@ -47,7 +53,6 @@ C:\Dev\azure\AngularDotNet\WebAngular\bin\es\System.Web.Razor.resources.dll
 C:\Dev\azure\AngularDotNet\WebAngular\bin\es\System.Web.WebPages.resources.dll
 C:\Dev\azure\AngularDotNet\WebAngular\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Dev\azure\AngularDotNet\WebAngular\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Dev\azure\AngularDotNet\WebAngular\obj\Debug\WebAngular.csprojResolveAssemblyReference.cache
 C:\Dev\azure\AngularDotNet\WebAngular\obj\Debug\WebAngular.csproj.CoreCompileInputs.cache
 C:\Dev\azure\AngularDotNet\WebAngular\obj\Debug\WebAngular.dll
 C:\Dev\azure\AngularDotNet\WebAngular\obj\Debug\WebAngular.pdb

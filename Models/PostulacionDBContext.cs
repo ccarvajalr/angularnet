@@ -9,12 +9,16 @@ namespace WebAngular.Models
 {
     public class PostulacionDBContext : DbContext
     {
-        public DbSet<Vehiculo> Vehiculo { get; set; }
+        public PostulacionDBContext(): base("PostulacionDBContext")
+        {
+
+        }
+        public DbSet<Vehiculo> Vehiculos { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
             base.OnModelCreating(modelBuilder);
-            //modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
         }
     }
 }

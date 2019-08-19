@@ -8,8 +8,11 @@ namespace WebAngular.Controllers
 {
     public class HomeController : Controller
     {
+        private Models.PostulacionDBContext postulacionDBContext = new Models.PostulacionDBContext();
         public ActionResult Index()
         {
+            var lista = postulacionDBContext.Vehiculos.ToList();
+
             return View();
         }
     }

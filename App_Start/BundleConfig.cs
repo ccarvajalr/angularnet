@@ -26,12 +26,23 @@ namespace WebAngular
             bundles.Add(new ScriptBundle("~/bundles/angularjs").Include(
                      "~/Scripts/angular.js"));
 
+            bundles.Add(new ScriptBundle("~/bundles/appAngularFiles").Include(
+                    "~/Scripts/app/Controlador.js",
+                    "~/Scripts/app/Modulo.js",
+                    "~/Scripts/app/Servicios.js"));
+
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
 
             bundles.Add(new StyleBundle("~/Content/toastr").Include(
                      "~/Content/toastr.css"));
+
+            bundles.Add(new ScriptBundle("~/bundles/angular").Include(
+                  "~/Scripts/libs/runtime*",
+                  "~/Scripts/libs/polyfills*",
+                  "~/Scripts/libs/vendor*",
+                  "~/Scripts/libs/main*"));
         }
     }
 }
